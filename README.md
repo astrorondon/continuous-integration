@@ -2,7 +2,7 @@
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
+  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International. 
 -->
 
 # Continuous Integration
@@ -125,7 +125,7 @@ If the checks don't appear or if the checks are stuck in progress, there's a few
 ### :keyboard: Activity: Fix the test
 
 1. Update the code in the `ci` branch to get the test to pass. You need to look something like this:
-   _underscore_
+ _underscore_
 1. **Commit changes**.
 1. Wait about 20 seconds then refresh this page for the next step.
 
